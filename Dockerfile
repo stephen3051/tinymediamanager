@@ -1,1 +1,1 @@
-FROM tinymediamanager/tinymediamanager:4-prerelease
+FROM tinymediamanager/tinymediamanager:latest
