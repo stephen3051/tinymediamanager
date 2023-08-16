@@ -1,0 +1,1 @@
+FROM tinymediamanager/tinymediamanager:latest
